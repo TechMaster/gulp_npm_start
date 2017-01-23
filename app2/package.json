@@ -1,0 +1,19 @@
+{
+  "name": "app2",
+  "version": "1.0.0",
+  "description": "Another Express App2",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha -S"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Trinh Minh Cuong",
+  "license": "MIT"
+}
